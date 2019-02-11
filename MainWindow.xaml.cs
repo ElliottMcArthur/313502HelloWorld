@@ -1,7 +1,7 @@
 ﻿/*Elliott McArthur
  * Feb 9, 2019
  * Hello world my first program
- * /
+ */
 using System;
 using System.Collections.Generic;
 using System.Linq;
